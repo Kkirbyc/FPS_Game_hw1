@@ -3,10 +3,10 @@ Unreal Engine Version: 5.0.3
 
 SUBMISSION LINKS
 Video Demonstration (YouTube):
-[PASTE YOUTUBE VIDEO LINK HERE]
+https://youtu.be/6LD3QZZxUdY
 
 Project Files:
-[PASTE PUBLIC PROJECT DOWNLOAD LINK HERE]
+https://github.com/Kkirbyc/FPS_Game_hw1
 
 PROJECT OVERVIEW
 This project uses the Unreal Engine First Person template with Starter Content and demonstrates the five HW1 requirements:
